@@ -9,3 +9,7 @@ It has a neat fanout of all the USB-C pins (without the shield), which are nicel
 
 #### Directly on a prototyping board or a PCB:
 ![Preview](docs/breakout-in-use.jpeg "On PCB")
+
+## Check out my other PCBs:
+
+- **ESP32-C3 Nano** (in collaboration with [@frycaktadeas](https://github.com/frycaktadeas/)): https://github.com/frycaktadeas/esp32-c3
